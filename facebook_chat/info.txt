@@ -1,0 +1,9 @@
+{
+    "access_token" : "CAACSYXSzUP4BABZAfYr95mZCjwWchC4uNPaQXtQxs99GTrvVkwyZAo0picm9JPT4jkhGmp4QNCApFO2DkXrqUs9uyht6K0GTJZCKzuXzdhgJo79xTtS9V2ykGHb2lEvrmBTkHHgpqKVB1yWaPNjebHNMlHLZCqfwXXTWH9C9UWVniA2czZBkmOda3HbV4786QZD",
+    "username" : "Sarvesh1991",
+    "app_id" : "160947267391742",
+    "app_secret" : "41c28414841ddbfd9b78358931b62455",
+    "friends_username" : [
+	    "bhatia.anubhuti21"
+        ]
+}
